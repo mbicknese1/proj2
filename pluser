@@ -1,0 +1,2 @@
+def pluser(n):
+    return n+1
